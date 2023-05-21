@@ -1,0 +1,227 @@
+#Mostek.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log Mostek.txt
+commit 3be2a1e13616cbac8888ae96747639edb952b3d0
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:30:48 2023 +0200
+
+    Created Mostek and replaced in piosenka
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#Outro.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log Outro.txt
+commit 6879e6497d03a5425b5ed5b7cac5d10bc7550321
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:36:09 2023 +0200
+
+    Created Outro and replaced in piosenka
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#Przed-Refren1.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log Przed-Refren1.txt
+commit 089cbcd09d03ba2b833da9ccf82b11235fea3b6f
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:21:39 2023 +0200
+
+    Created Przed-Refren1 and replaced in piosenka
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#Przed-Refren2.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log Przed-Refren2.txt
+commit 18a1df3595f909fc9b5382e17b4ba206cc27ca66
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:28:19 2023 +0200
+
+    Created Przed-Refren2 and replaced in piosenka
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#Piosenka
+S C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log
+commit 43d51741728274db6c9905c218b4d2ffbd4ab5f4 (HEAD -> master)
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log piosenka.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log piosenka.txt
+commit 821358018bcce38cdc2e1c5a2c77f15a7dad67cb (HEAD -> master)
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:52:05 2023 +0200
+
+    Removed duplicated Refren and replaced in piosenka
+
+commit 6879e6497d03a5425b5ed5b7cac5d10bc7550321
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:36:09 2023 +0200
+
+    Created Outro and replaced in piosenka
+
+commit 522799960dd0cb81b0ae10c2f155d546f7a86831
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:34:34 2023 +0200
+
+    Created Refren4 and replaced in piosenka
+
+commit 87db39c78b41e527521762e64e936f93cd617799
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:33:23 2023 +0200
+
+    Created Refren3 and replaced in piosenka
+
+commit 3be2a1e13616cbac8888ae96747639edb952b3d0
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:30:48 2023 +0200
+
+    Created Mostek and replaced in piosenka
+:
+
+#Refren
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> Git log Refren.txt
+commit 821358018bcce38cdc2e1c5a2c77f15a7dad67cb (HEAD -> master)
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:52:05 2023 +0200
+
+    Removed duplicated Refren and replaced in piosenka
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#Zwrotka1
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log Zwrotka1.txt
+commit c4d7be5d99435f4b3863d3bdc55252afcfd2e1d7
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:26:34 2023 +0200
+
+    Created Zwrotka2/replaced in piosenka/fixed format
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#Zwrotka2
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log
+commit 43d51741728274db6c9905c218b4d2ffbd4ab5f4 (HEAD -> master)
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log piosenka.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log piosenka.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log Zwrotka2.txt
+commit c4d7be5d99435f4b3863d3bdc55252afcfd2e1d7
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:26:34 2023 +0200
+
+    Created Zwrotka2/replaced in piosenka/fixed format
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> 
+
+#all
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log
+commit 43d51741728274db6c9905c218b4d2ffbd4ab5f4 (HEAD -> master)
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log piosenka.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log piosenka.txt
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log
+commit 821358018bcce38cdc2e1c5a2c77f15a7dad67cb (HEAD -> master) 
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:52:05 2023 +0200
+
+    Removed duplicated Refren and replaced in piosenka
+
+commit 43d51741728274db6c9905c218b4d2ffbd4ab5f4
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:40:01 2023 +0200
+
+    Revert "Removed 1 line from Refren1"
+
+    This reverts commit a0a6c583b804e9648bcfd044b333f1fd71821b92.
+
+commit a0a6c583b804e9648bcfd044b333f1fd71821b92
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:37:42 2023 +0200
+
+    Removed 1 line from Refren1
+
+commit 6879e6497d03a5425b5ed5b7cac5d10bc7550321
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:36:09 2023 +0200
+
+    Created Outro and replaced in piosenka
+
+commit 522799960dd0cb81b0ae10c2f155d546f7a86831
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:34:34 2023 +0200
+
+...skipping...
+PS C:\Users\michm\Documents\Python - Future\Wykłady\Wykład 1\GIT Zadanie - Piosenka> git log
+commit 821358018bcce38cdc2e1c5a2c77f15a7dad67cb (HEAD -> master) 
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:52:05 2023 +0200
+
+    Removed duplicated Refren and replaced in piosenka
+
+commit 43d51741728274db6c9905c218b4d2ffbd4ab5f4
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:40:01 2023 +0200
+
+    Revert "Removed 1 line from Refren1"
+
+    This reverts commit a0a6c583b804e9648bcfd044b333f1fd71821b92.
+
+commit a0a6c583b804e9648bcfd044b333f1fd71821b92
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:37:42 2023 +0200
+
+    Removed 1 line from Refren1
+
+commit 6879e6497d03a5425b5ed5b7cac5d10bc7550321
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:36:09 2023 +0200
+
+    Created Outro and replaced in piosenka
+
+commit 522799960dd0cb81b0ae10c2f155d546f7a86831
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:34:34 2023 +0200
+
+    Created Refren4 and replaced in piosenka
+
+commit 87db39c78b41e527521762e64e936f93cd617799
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:33:23 2023 +0200
+
+    Created Refren3 and replaced in piosenka
+
+commit 3be2a1e13616cbac8888ae96747639edb952b3d0
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:30:48 2023 +0200
+
+    Created Mostek and replaced in piosenka
+
+commit 6b81ebed5ec09ae6ba1e288a822ee8fb3ff93eb1
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:29:35 2023 +0200
+
+    Created Refren2 and replaced in piosenka
+
+commit 18a1df3595f909fc9b5382e17b4ba206cc27ca66
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:28:19 2023 +0200
+
+    Created Przed-Refren2 and replaced in piosenka
+
+commit c4d7be5d99435f4b3863d3bdc55252afcfd2e1d7
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:26:34 2023 +0200
+
+    Created Zwrotka2/replaced in piosenka/fixed format
+
+commit 02b1c4bb5468b0513d67fba11c8f65215b4c616d
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:23:10 2023 +0200
+
+    Ceated Refren1 and replaced in piosenka
+
+commit 089cbcd09d03ba2b833da9ccf82b11235fea3b6f
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:21:39 2023 +0200
+
+    Created Przed-Refren1 and replaced in piosenka
+
+commit e667f127e8f20297e4ff33b736aa9eae97e392ff
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:19:47 2023 +0200
+
+    Created Zwrotka 1 and replaced in piosenka
+
+commit ad1f634eaecbab9bccba768a578c8ce8b7391162
+Author: MichałM <michalhm@gmail.com>
+Date:   Sun May 21 13:17:48 2023 +0200
+
+    Created piosenka.txt
+(END)
