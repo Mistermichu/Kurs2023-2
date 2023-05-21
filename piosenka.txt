@@ -1,10 +1,10 @@
 Zwrotka1
 Przed-Refren1
-Refren1
+Refren
 Zwrotka2
 Przed-Refren2
-Refren2
+Refren
 Mostek
-Refren3
-Refren4
+Refren
+Refren
 Outro
